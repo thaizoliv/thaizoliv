@@ -1,12 +1,12 @@
 ## 👋 Olá, seja bem-vindo(a) ao meu perfil!
 
-Sou uma profissional apaixonada por tecnologia e inovação, formada em **Sistemas de Informação**, com **pós-graduação em Banco de Dados** e atualmente cursando uma especialização em **Inteligência Artificial e Machine Learning**.
+Sou uma profissional apaixonada por tecnologia e inovação, formada em **Sistemas de Informação**, com **pós-graduação em Banco de Dados** e **Inteligência Artificial e Machine Learning**, atualmente cursando uma especialização em **DevOps**.
 
 🚀 Em constante **aprendizado**, busco sempre aprimorar meus conhecimentos e estou à procura de uma **oportunidade** no mundo tech!  Atualmente, meus estudos estão focados em **Java e Python**, além de diversas outras áreas de tecnologia.
 
 ## 🔧  Tecnologias & Ferramentas
 
-📌 **Linguagens:** Java, Python
+📌 **Linguagens:** Java, PHP, Python
 
 📌 **Banco de Dados:** SQL, NoSQL, MySQL
 
